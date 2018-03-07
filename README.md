@@ -18,7 +18,7 @@ python app.js
 
 ```
 npm install
-node app.js
+node index
 ```
 
 ### Ruby
